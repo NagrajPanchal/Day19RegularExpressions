@@ -1,4 +1,4 @@
-// UC4 - Validate Pre-defined Mobile Format Country code follow by space and 10digit number
+// UC4 - Validate Pre-defined Password rules. Rule1 – minimum 8 Characters
 package com.bridgelabz;
 
 import java.util.regex.Matcher;
@@ -6,10 +6,10 @@ import java.util.regex.Pattern;
 
 public class RegularExpressions
 {
-    static Pattern pattern = Pattern.compile("^([0-9]{2})\s([0-9]{10})$");
+    static Pattern pattern = Pattern.compile("^([a-z]{8,})$");
     public static void main(String[] args)
     {
-        Matcher matcher = pattern.matcher("91 9739713842");
+        Matcher matcher = pattern.matcher("nagrajpanchal");
         if(matcher.matches())
             System.out.println(true);
         else
