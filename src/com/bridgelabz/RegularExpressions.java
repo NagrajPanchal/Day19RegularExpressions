@@ -1,4 +1,4 @@
-// UC4 - Validate Pre-defined Password rules. Rule2– Should have at least 1 Upper Case
+// UC6 - Validate Pre-defined Password rules. Rule2– Should have at least 1 Upper Case
 package com.bridgelabz;
 
 import java.util.regex.Matcher;
