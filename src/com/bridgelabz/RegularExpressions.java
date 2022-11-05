@@ -1,4 +1,4 @@
-// UC1- Valid First Name & First name starts with Cap and has minimum 3 characters
+// UC2- Valid Last Name & Last name starts with Cap and has minimum 3 characters
 package com.bridgelabz;
 
 import java.util.regex.Matcher;
