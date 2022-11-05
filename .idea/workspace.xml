@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0744335a-f5ce-463c-9cd3-8d9a0ca59773" name="Changes" comment="Added : Validate Pre-defined Password rules at least 1 Upper Case" />
+    <list default="true" id="0744335a-f5ce-463c-9cd3-8d9a0ca59773" name="Changes" comment="Added : Validate Pre-defined Password rules at least 1 Upper Case">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/RegularExpressions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/RegularExpressions.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667650413222</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Added : Validate Pre-defined Password rules at least 1 Upper Case">
+      <created>1667650689462</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1667650689462</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
