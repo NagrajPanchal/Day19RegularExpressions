@@ -1,4 +1,4 @@
-// UC8 - Validate Pre-defined Password rules. Rule4– Has exactly 1 Special Character
+// UC9 - Should clear all E-mail samples provided separately
 package com.bridgelabz;
 
 import java.util.regex.Matcher;
@@ -6,10 +6,10 @@ import java.util.regex.Pattern;
 
 public class RegularExpressions
 {
-    static Pattern pattern = Pattern.compile("^(?=.*[a-z])(?=.*[A-Z])(?=.*[0-9])(?=.*[.,:;'!@#$%^&*_+=|(){}?\\-\\\\/\\\\]{1}).{8,}$");
+    static Pattern pattern = Pattern.compile("^([a-zA-Z0-9_\\-\\.]+)@([a-zA-Z0-9_\\-\\.]+)\\.([a-zA-Z]{2,5})$");
     public static void main(String[] args)
     {
-        Matcher matcher = pattern.matcher("NagrajPanchal123@#");
+        Matcher matcher = pattern.matcher("NagrajPanchal@gmail.com");
         if(matcher.matches())
             System.out.println(true);
         else
