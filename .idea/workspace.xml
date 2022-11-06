@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0744335a-f5ce-463c-9cd3-8d9a0ca59773" name="Changes" comment="Added : Validate Pre-defined Password rules at least 1 Upper case">
+    <list default="true" id="0744335a-f5ce-463c-9cd3-8d9a0ca59773" name="Changes" comment="Added : Validate Pre-defined Password rules at least 1 numeric number">
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_06-11-2022_03_05_pm_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_06-11-2022_03_05_pm__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/RegularExpressions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/RegularExpressions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="UC6-Validate_Password_Rule2_Should_have_at_least_1_Upper_Case" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -152,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667726268081</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Added : Validate Pre-defined Password rules at least 1 numeric number">
+      <created>1667726466839</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1667726466839</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,6 +185,7 @@
     <MESSAGE value="Added : Validate Pre-defined Password rules at least 1 Upper Case" />
     <MESSAGE value="Added : Validate Pre-defined Password rules at least 1 number" />
     <MESSAGE value="Added : Validate Pre-defined Password rules at least 1 Upper case" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added : Validate Pre-defined Password rules at least 1 Upper case" />
+    <MESSAGE value="Added : Validate Pre-defined Password rules at least 1 numeric number" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added : Validate Pre-defined Password rules at least 1 numeric number" />
   </component>
 </project>
