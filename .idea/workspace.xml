@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0744335a-f5ce-463c-9cd3-8d9a0ca59773" name="Changes" comment="Added : Validate Pre-defined Password rules at least 1 Upper Case">
+    <list default="true" id="0744335a-f5ce-463c-9cd3-8d9a0ca59773" name="Changes" comment="Added : Validate Pre-defined Password rules at least 1 number">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/RegularExpressions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/RegularExpressions.java" afterDir="false" />
     </list>
@@ -139,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667650689462</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Added : Validate Pre-defined Password rules at least 1 number">
+      <created>1667651056443</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1667651056443</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,6 +167,7 @@
     <MESSAGE value="Added : Validate Pre-defined Mobile Format" />
     <MESSAGE value="Added : Validate Pre-defined Password rules minimum 8 Characters" />
     <MESSAGE value="Added : Validate Pre-defined Password rules at least 1 Upper Case" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added : Validate Pre-defined Password rules at least 1 Upper Case" />
+    <MESSAGE value="Added : Validate Pre-defined Password rules at least 1 number" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added : Validate Pre-defined Password rules at least 1 number" />
   </component>
 </project>
